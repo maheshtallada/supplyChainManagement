@@ -1,0 +1,66 @@
+https://www.youtube.com/watch?v=gyUUsyT7uCs
+
+Supply chain management
+	-- right goods at right places in right time
+	-- Connected network of individuals, companies, activities and technologies required for manufacturing and sale of goods
+	-- Managing the chain of supplies
+	-- 
+	
+	Adv: Better productivity and reduced cost
+		improves inventory management -- Improved cash flow and profits
+		Create new opportunities
+		easier risk management
+		
+
+building blocks of SCM :
+
+	
+		Strategic planning
+		Demand planning
+		supply planning
+		procurement
+		manufacturing
+		warehousing
+		order fulfilment
+		transportation
+		
+Digital SCM : using digital technologies		-- IOT, RPA, AI etc.,
+	
+	
+Challenges on road to digital SCM : 
+
+Tech:
+	choosing right mix of techs
+	integration among the techs
+Management: 
+	letting go of some old processes
+	incorporating new yet to be proven processes along with meeting current requirement
+	
+	
+	
+	
+Supply chain integration ::
+	Horizontal Integration
+	Vertical Integration : 
+	
+
+Challenges of SCM : 
+
+	unavailability of workers
+	changes in order and cancellation
+	unexpected failure in manufacturing facility or software
+	hampered supply of raw materials
+	conflict in the commitment of suppliers
+	lack of communication opportunities in the chain
+	
+	
+	
+latet trend in SCM ::
+	Getting Greener
+	Use of AI and ML
+	Automation
+	forecast in demand
+	use of cloud based technologies
+	digital security
+	
+Supply chain Risk Management :: 

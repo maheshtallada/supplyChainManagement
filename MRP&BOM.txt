@@ -1,0 +1,30 @@
+https://www.youtube.com/playlist?list=PLlCWmLrQuBh12DjHTh9q-yg7Yi2gxP-YI
+
+Material Requirement planning
+	Inputs: 
+		Inventory status		-- How many items of each type we already have -- current supply situation
+		Master production schedule		--	How many items need to be produced and by when
+		Bill of material BOM		--	How many items and respective sub items are needed to produce one end product.
+	Outputs:
+		Planned Orders Report		--	1. What needs to be delivered in the near future
+										2. payments from the suppliers
+		Order Release Report		-- what orders need to be released. -- takes help of Lead time to release orders (when to have what so as to minimise inventory and optimise supply chain)
+		Order change Report 		--	
+
+BOM : is a record of all the components of an item,
+	  the parent- component relation ship,    ---  we need to know what suub-assemblies are required to manufacture the end product.
+	  usage quantities derived					-- we need to know the quantities required also
+		from Engineering and product design.
+
+		
+
+	End items
+	Intermediate (one item can transform into another item, the second stage of an element is called intermediate)
+	sub -assemblies (comb of two or more items)
+	purchase items  OR Raw materials(does not have componenets, it comes from suppliers -- no involment of transformation or assembling -- have one or more parents)
+	
+	Before calculating no. of items required, the inventory needs to be checked.
+	
+	""Product Structure tree""
+	
+	Lead Times -- along with the quantity, we need to know how much time each sub assembly/intermediate item takes time to produce end item.
